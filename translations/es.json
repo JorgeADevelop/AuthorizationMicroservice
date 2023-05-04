@@ -1,0 +1,18 @@
+{
+    "HEALTHY_CHECK": "service is running...",
+    "INVALID_LANGUAGE": "invalid Accept-Language header",
+    "PAGE_NOT_FOUND": "invalid path",
+
+    "USER_DATA_ERROR": "error getting user data",
+    "DATABASE_ERROR": "error connecting with database",
+    "ERROR_BINDING": "invalid params for {{.Resouce}} data.",
+    "VALIDATION_ERROR": "some params for {{.Resouce}} data are invalid.",
+
+    "SUCCESS_STORE": "the {{.Resouce}} has been created successfuly.",
+    "RESOURCE_NOT_FOUND": "{{.Resouce}} not found for {{.Index}}: {{.Value}}.",
+    "STORE_ERROR": "the {{.Resouce}} could not be stored.",
+
+    "LOGIN_INVALID_EMAIL": "email does not match",
+    "LOGIN_INVALID_PASSWORD": "password does not match",
+    "LOGIN_SUCCESS": "user has been logged in successfuly."
+}
